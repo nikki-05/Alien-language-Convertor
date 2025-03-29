@@ -1,7 +1,7 @@
 # Hii 👋, My name is Wobbletron, the alien👽
 ---------------------------------------------------------------------------------------------------------------------------
-Welcome to the Alien Language Translator project! This application allows users to translate text between human languages and fictional alien languages.
-This is not just your humanly abba dabba jabba , rather its a whole vocabulary to learn my language.
+Welcome to the Alien Language Translator project! This application allows users to translate text between human and fictional alien languages.
+This is not just your humanly abba dabba jabba; rather it's a whole vocabulary to learn my language.
 
 ## Features⭐
 -Translation: Translate text between various human languages and alien languages.
@@ -19,14 +19,16 @@ We welcome contributions to improve the Alien Language Translator! If you'd like
 
 -Fork the repository.
 -Create a new branch (git checkout -b feature/YourFeature).
--Make your changes.
+-Please make your changes.
 -Commit your changes (git commit -am 'Add new feature').
 -Push to the branch (git push origin feature/YourFeature).
 -Create a new Pull Request.
 
-## Image of the game is placed in the image folder
+## Snapshot of the game 
+![image](https://raw.githubusercontent.com/nikki-05/Alien-language-Convertor/refs/heads/main/alien.png)
 
-👋ζ∑ζ∑φ¥Λß∈Ω , to understand this , please navigate to the game and learn my language 
+## It's all fun!
+👋ζ∑ζ∑φ¥Λß∈Ω, to understand this, please navigate to the game and learn my language 
 
 Happy Learning :)
 
